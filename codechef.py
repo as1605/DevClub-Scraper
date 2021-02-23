@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sys
 import os
-from time import sleep
 
 rnd=sys.argv[1].upper()
 
